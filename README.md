@@ -6,7 +6,7 @@
 
 A three-person academic Python project for managing a small library catalogue through a command-line interface.
 
-**Portfolio case study:** https://devanshujamwal.github.io/projects/python-library-system/
+**Portfolio case study:** https://devanshujamwal.github.io/Devanshujamwal/projects/python-library-system/
 
 ## At a glance
 
@@ -90,4 +90,4 @@ A future version could add automated CLI tests, stronger input validation, and p
 
 ---
 **Devanshu Jamwal** · IT Support · Systems · Networking · Cloud  
-[Portfolio](https://devanshujamwal.github.io/) · [GitHub Profile](https://github.com/Devanshujamwal)
+[Portfolio](https://devanshujamwal.github.io/Devanshujamwal/) · [GitHub Profile](https://github.com/Devanshujamwal)
