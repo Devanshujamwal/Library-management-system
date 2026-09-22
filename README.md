@@ -88,6 +88,11 @@ Expected result:
 All Book model checks passed.
 ```
 
+## Documentation
+
+- [Application architecture](./docs/architecture.md)
+- [Testing notes](./docs/testing.md)
+
 ## Implementation notes
 
 ### Book model
